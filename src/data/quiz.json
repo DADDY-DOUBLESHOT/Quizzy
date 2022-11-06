@@ -1,19 +1,19 @@
 {
   "data": [
     {
-      "question": "Which of the following is the major element in earth crust?",
-      "choices": ["Silicon", "Oxygen", "Iron", "Aluminium"],
-      "answer": "Oxygen"
+      "question": "Brass gets discoloured in air because of the presence of which of the following gases in air?",
+      "choices": ["Oxygen", "Hydrogen sulphide", "Carbon dioxide", "Nitrogen"],
+      "answer": "Hydrogen sulphide"
     },
     {
-      "question": "Which among the following country is known as “Land of White Elephant”?",
-      "choices": ["India", "Sri Lanka", "UAE", "Thailand"],
-      "answer": "Thailand"
+      "question": "Which of the following is a non metal that remains liquid at room temperature?",
+      "choices": ["Helium", "Bromine", "Chlorine", "Phosphorous"],
+      "answer": "Bromine"
     },
     {
-      "question": "What is the capital of Austria ?",
-      "choices": ["Graz", "Salzburg", "Innsbruck", "Vienna"],
-      "answer": "Vienna"
+      "question": "Chlorophyll is a naturally occurring chelate compound in which central metal is",
+      "choices": ["iron", "magnesium", "calcium", "copper"],
+      "answer": "magnesium"
     },
     {
       "question": "The term Ground Stroke is associated with which of the following games?",
